@@ -1,3 +1,5 @@
+Support both the Django versions 2 and 3
+
 1. Setup a virtual environment.
 2. Fork the repository and Clone it.
 3. Install the packages from the requirements file.
